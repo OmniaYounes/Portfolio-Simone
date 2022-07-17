@@ -1,0 +1,432 @@
+/* large */
+@media (max-width:1199.98px)
+{
+    .header .nav .context
+    {
+        width: 78%;
+    }
+
+    /* ***********knowME*********** */
+    
+    .knowME .about
+    {
+        width: 100%;
+    }
+
+    .knowME .parent
+    {
+        padding: 30px;
+    }
+
+    .knowME .parent .child1
+    {
+        padding: 0px;
+    }
+
+    .knowME .parent .child2
+    {
+        padding: 0px;
+    }
+
+/* *************My Work*********** */
+
+    .MyWork .portfolio 
+    {
+        width: 100%;
+    }
+
+
+/* *******Client Speak********* */
+
+    .ClientSpeak .testimonial
+    {
+        width: 95%;
+    }
+
+/* ********getin************ */
+
+    .getin .contact
+    {
+        width: 95%;
+    }
+
+
+
+
+}
+
+
+
+/* Medium  */
+@media (max-width: 991.98px)
+{
+
+    .header .nav .context
+    {
+        width: 75%;
+    }
+
+    .header .nav ul
+    {
+        width: 80%;
+    }
+
+
+/* ***********knowME*********** */
+
+    .knowME .about
+    {
+        width: 90%;
+    }
+
+    .knowME .parent .child1
+    {
+        width:100%;
+        padding-bottom: 40px;
+    }
+
+    .knowME .parent .child2
+    {
+        width: 100%;
+    }
+
+    .knowME .cont .child
+    {
+        width: 50%;
+        margin-bottom: 20px;
+    }
+
+    /* ********WhatIDo********** */
+
+    .WhatIDo .services .parent .child
+    {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+/* *********Resume********** */
+
+    .Resume .summary .parent
+    {
+        display: flex;
+        justify-content: center;
+    }
+
+    .Resume .summary .parent .education
+    {
+        width: 85%;
+    }
+
+    .Resume .summary .parent .experience
+    {
+        width: 85%;
+    }
+
+    .Resume .myskills .parentt
+    {
+        justify-content: center;
+    }
+    .Resume .myskills .childd
+    {
+        width: 85%;
+    }
+
+/* *************My Work*********** */
+
+    .MyWork .portfolio .categories
+    {
+        justify-content: center;
+    }
+
+    .MyWork .portfolio .categories .category
+    {
+        width:75%;
+    }
+
+/* *******Client Speak********* */
+
+    .ClientSpeak .testimonial .clients
+    {
+        justify-content: center;
+
+    }
+
+    .ClientSpeak .testimonial .clients .client
+    {
+        width: 90%;
+        margin-bottom: 50px;
+    }
+
+/* ********getin************ */
+
+    .getin .contact .regiest
+    {
+        padding: 10px;
+        justify-content: space-between;
+
+    }
+
+    .getin .contact .regiest .address
+    {
+        width:30%;
+    }
+
+    .getin .contact .regiest .send
+    {
+        width: 68%;
+    } 
+
+    .getin .contact .regiest .send .inputName
+    {
+        width: 100%;
+    }
+
+    .getin .contact .regiest .send .inputEmail
+    {
+        width: 100%;
+    }
+
+
+
+}
+
+/* Small */
+@media (max-width: 767.98px)
+{
+    
+    .header .nav .context .bars
+    {
+        width: 25%;
+        visibility: visible;
+        font-size: 25px;
+    }
+ 
+    .header .nav ul
+    {
+        width: 75px;
+        visibility:hidden ;
+    }
+
+/* ***********knowME*********** */
+
+    .knowME .about
+    {
+        width: 100%;
+    }
+
+    .knowME .parent .child1
+    {
+        width:100%;
+        margin-bottom: 30px;
+    }
+
+    .knowME .parent .child2
+    {
+        width: 100%;
+    }
+
+    .knowME .cont .child
+    {
+        width: 50%;
+        margin-bottom: 20px;
+    }
+
+    /* ********WhatIDo********** */
+
+    .WhatIDo .services
+    {
+        width: 95%;
+    }
+
+    .WhatIDo .services .parent
+    {
+        
+        padding: 5px;
+        width: 100%;
+    }
+
+    .WhatIDo .services .parent .child
+    {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+/* *********Resume********** */
+
+    .Resume .summary .parent
+    {
+        display: flex;
+        justify-content: center;
+    }
+
+    .Resume .summary .parent .education
+    {
+        width: 95%;
+    }
+
+    .Resume .summary .parent .experience
+    {
+        width: 95%;
+    }
+
+    .Resume .myskills .parentt
+    {
+        justify-content: center;
+    }
+    .Resume .myskills .childd
+    {
+        width: 95%;
+    }
+
+    /* *************My Work*********** */
+
+    .MyWork .portfolio .categories
+    {
+        justify-content: center;
+    }
+
+    .MyWork .portfolio .categories .category
+    {
+        width:90%;
+    }
+
+    /* *******Client Speak********* */
+
+    .ClientSpeak .testimonial .clients
+    {
+        justify-content: center;
+
+    }
+
+    .ClientSpeak .testimonial .clients .client
+    {
+        width: 100%;
+        margin-bottom: 50px;
+    }
+
+/* ********getin************ */
+
+    .getin .contact .regiest
+    {
+        padding: 0px;
+        justify-content: center;
+
+    }
+
+    .getin .contact .regiest .address
+    {
+        width:70%;
+        margin-bottom: 30px;
+    }
+
+    .getin .contact .regiest .address P
+    {
+        display: inline-block;
+    }
+
+    .getin .contact .regiest .address i
+    {
+        display: block;
+    }
+
+    .getin .contact .regiest .send
+    {
+        width: 90%;
+    } 
+
+    .getin .contact .regiest .send .inputName
+    {
+        width: 100%;
+    }
+
+    .getin .contact .regiest .send .inputEmail
+    {
+        width: 100%;
+    }
+
+
+
+
+}
+
+ /* Extra small */
+@media (max-width: 575.98px) 
+{ 
+
+    .knowME .cont .child
+    {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .WhatIDo .services
+    {
+        width: 100%;
+    }
+
+    .WhatIDo .services .parent
+    {
+        padding: 0px;
+    }
+
+    .WhatIDo .services .parent .child
+    {
+        padding: 15px;
+    }
+
+    .WhatIDo .services .parent .child .context
+    {
+        padding:0px 0px 0px 15px;
+    }
+    
+    .Resume .summary .parent .education
+    {
+        width: 100%;
+    }
+
+    .Resume .summary .parent .experience
+    {
+        width: 100%;
+    }
+
+    .Resume .myskills .childd
+    {
+        width: 100%;
+    }
+
+    .MyWork .portfolio .categories .category
+    {
+        width:100%;
+    }
+
+    .MyWork .portfolio .categories
+    {
+        padding: 10px;
+    }
+
+    .ClientSpeak .testimonial .clients
+    {
+        padding: 10px;
+    
+    }
+    
+    .ClientSpeak .testimonial .clients .client
+    {
+        padding: 10px;
+    }
+
+    .getin .contact .regiest .send
+    {
+        width: 100%;
+    } 
+
+    .footer
+    {
+        text-align: center;
+    }
+
+
+
+} 
+
+
